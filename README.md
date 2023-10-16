@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zhplana@gmail.com**
 
-- 📄 Know about my experiences: <a href="./Resume.html">CV</a>
+- 📄 Know about my experiences: <a href="./Resume.md">CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
