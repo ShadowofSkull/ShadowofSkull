@@ -2,7 +2,6 @@
 
 Selangor, Malaysia  
 **Email**: zhplana@gmail.com  
-**Phone number**: +60123350297
 
 **_A Computer Science student aspires to find his favourite region in the world of technology by exploring all the new lands of tech_**
 
