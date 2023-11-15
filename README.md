@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zheng Hao</h1>
+<h1 align="center">Hi 👋, I'm Z Hao</h1>
 <h3 align="center">A Computer Science student aspires to find his favourite region in the world of technology by exploring all the new lands of tech</h3>
 
 - 🌱 I’m currently learning **python scripting**
