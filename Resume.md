@@ -1,7 +1,6 @@
 # Yong Zheng Hao
 
 Selangor, Malaysia  
-**Email**: zhplana@gmail.com  
 
 **_A Computer Science student aspires to find his favourite region in the world of technology by exploring all the new lands of tech_**
 
