@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **python scripting**
 
-- 📫 How to reach me **zhplana@gmail.com**
-
 - 📄 Know about my experiences: <a href="./Resume.md">CV</a>
 
 
